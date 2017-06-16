@@ -1,7 +1,6 @@
-?php
+<?php
+$access_token = 'ifNEIb0T0fu00LwBVddqYSarOl/O+5v8LEhd9BbPNtBBT0mqK6hYGI5SgV4IYxAyN3CAOpcCNaTsf5q+jT9eLNiEa9vgsmPuEUF60+KL41WJ09ck4ZYVu8BfOJVexyb5/qvfajyXkHI2yF3D1QL7hgdB04t89/1O/w1cDnyilFU=';
 
-$strAccessToken = "ifNEIb0T0fu00LwBVddqYSarOl/O+5v8LEhd9BbPNtBBT0mqK6hYGI5SgV4IYxAyN3CAOpcCNaTsf5q+jT9eLNiEa9vgsmPuEUF60+KL41WJ09ck4ZYVu8BfOJVexyb5/qvfajyXkHI2yF3D1QL7hgdB04t89/1O/w1cDnyilFU=";
- 
 // Get POST body content
 $content = file_get_contents('php://input');
 // Parse JSON
